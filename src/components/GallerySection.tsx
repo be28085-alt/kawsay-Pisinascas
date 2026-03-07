@@ -1,4 +1,3 @@
-import pool1 from "@/assets/pool-1.jpeg";
 import pool2 from "@/assets/pool-2.jpeg";
 import pool3 from "@/assets/pool-3.png";
 import pool5 from "@/assets/pool-5.png";
@@ -9,8 +8,12 @@ import pool9 from "@/assets/pool-9.png";
 import pool10 from "@/assets/pool-10.png";
 import pool11 from "@/assets/pool-11.png";
 import pool12 from "@/assets/pool-12.png";
-import pool13 from "@/assets/pool-13.png";
 import pool14 from "@/assets/pool-14.png";
+import pool15 from "@/assets/pool-15.jpeg";
+import pool16 from "@/assets/pool-16.jpeg";
+import pool17 from "@/assets/pool-17.png";
+import pool18 from "@/assets/pool-18.jpeg";
+import pool19 from "@/assets/pool-19.jpeg";
 import { motion } from "framer-motion";
 
 const projects = [
