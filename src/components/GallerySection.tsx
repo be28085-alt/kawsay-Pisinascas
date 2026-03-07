@@ -1,4 +1,3 @@
-import pool1 from "@/assets/pool-1.jpeg";
 import pool2 from "@/assets/pool-2.jpeg";
 import pool3 from "@/assets/pool-3.png";
 import pool5 from "@/assets/pool-5.png";
@@ -9,8 +8,12 @@ import pool9 from "@/assets/pool-9.png";
 import pool10 from "@/assets/pool-10.png";
 import pool11 from "@/assets/pool-11.png";
 import pool12 from "@/assets/pool-12.png";
-import pool13 from "@/assets/pool-13.png";
 import pool14 from "@/assets/pool-14.png";
+import pool15 from "@/assets/pool-15.jpeg";
+import pool16 from "@/assets/pool-16.jpeg";
+import pool17 from "@/assets/pool-17.png";
+import pool18 from "@/assets/pool-18.jpeg";
+import pool19 from "@/assets/pool-19.jpeg";
 import { motion } from "framer-motion";
 
 const projects = [
@@ -27,15 +30,33 @@ const projects = [
     location: "Residencia premium",
   },
   {
-    img: pool1,
-    title: "Piscina con Fuente Decorativa",
-    desc: "Piscina cuadrada con acabados en mármol travertino y fuente central en piedra. Incluye sistema de filtración de última generación, iluminación perimetral y banca sumergida para relajación.",
-    location: "Residencia campestre",
+    img: pool15,
+    title: "Piscina Familiar con Jacuzzi Elevado",
+    desc: "Amplia piscina rectangular con jacuzzi elevado integrado, perfecta para compartir en familia. Acabados en concreto pulido con bordillo perimetral y zona verde tropical.",
+    location: "Finca campestre",
   },
   {
-    img: pool13,
-    title: "Piscina Panorámica en las Montañas",
-    desc: "Piscina con vista panorámica a las montañas, acabados en piedra natural y borde perimetral elegante. Construida en terreno elevado con zona de grava decorativa y acceso lateral amplio.",
+    img: pool16,
+    title: "Piscina Rústica con Bordillo en Piedra",
+    desc: "Piscina de estilo rústico con bordillo en piedra terracota y piso en adoquín natural. Diseño funcional con acabados resistentes ideal para fincas recreativas.",
+    location: "Finca recreativa",
+  },
+  {
+    img: pool17,
+    title: "Piscina con Vista a las Montañas",
+    desc: "Elegante piscina con acabados en piedra coralina y grava decorativa, rodeada de vegetación nativa con vista panorámica a las montañas. Un oasis de tranquilidad.",
+    location: "Casa campestre",
+  },
+  {
+    img: pool18,
+    title: "Piscina Nocturna con Iluminación LED",
+    desc: "Espectacular piscina con sistema de iluminación LED azul y cascada decorativa con luz neón. Ambiente nocturno único con acabados en piedra rústica y pérgola.",
+    location: "Residencia premium",
+  },
+  {
+    img: pool19,
+    title: "Piscina con Jacuzzi y Cobertor Solar",
+    desc: "Piscina compacta con jacuzzi elevado en piedra gris y sistema de cobertor solar enrollable. Diseño moderno con acabados en mármol travertino y vista a las montañas.",
     location: "Finca en la montaña",
   },
   {
