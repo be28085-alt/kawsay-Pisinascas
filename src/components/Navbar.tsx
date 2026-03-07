@@ -9,9 +9,9 @@ const Navbar = () => {
 
   const links = [
     { label: "Inicio", href: "/" },
-    { label: "Piscinas", href: "/piscinas" },
     { label: "Jacuzzis", href: "/jacuzzis" },
     { label: "Servicios", href: "/servicios" },
+    { label: "Equipos", href: "/equipos" },
     { label: "Contacto", href: "/contacto" },
   ];
 
