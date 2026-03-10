@@ -14,10 +14,18 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
+      - name: Configure git to ignore submodules
+        run: git config --global submodule.recurse false
+
       - uses: actions/checkout@v4
         with:
           submodules: 'false'
-          token: ${{ secrets.GITHUB_TOKEN }}
+          fetch-depth: 0
+
+      - name: Remove any submodule references
+        run: |
+          rm -f .gitmodules
+          rm -rf .git/modules
 
       - uses: actions/setup-node@v4
         with:
