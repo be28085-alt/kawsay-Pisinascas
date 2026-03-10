@@ -68,7 +68,7 @@ const ServiciosPage = () => (
               Escríbenos por WhatsApp y recibe atención inmediata.
             </p>
             <a
-              href="https://wa.me/573001234567?text=Hola%2C%20me%20interesa%20un%20servicio"
+              href="https://wa.me/573042573555?text=Hola%2C%20me%20interesa%20un%20servicio"
               target="_blank"
               rel="noreferrer"
               className="relative z-10 inline-flex items-center gap-2 bg-card text-primary px-7 py-3.5 rounded-xl font-body font-semibold text-sm hover:shadow-lg transition-all duration-300"

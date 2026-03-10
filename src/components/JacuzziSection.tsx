@@ -133,7 +133,7 @@ const JacuzziSection = () => {
                 </div>
 
                 <a
-                  href="https://wa.me/573001234567?text=Hola%2C%20me%20interesa%20un%20jacuzzi"
+                  href="https://wa.me/573042573555?text=Hola%2C%20me%20interesa%20un%20jacuzzi"
                   target="_blank"
                   rel="noreferrer"
                   className="inline-flex items-center gap-2 font-body text-sm font-semibold text-primary hover:text-accent transition-colors w-fit"

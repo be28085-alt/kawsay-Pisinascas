@@ -98,7 +98,7 @@ const GallerySection = () => {
                   {p.desc}
                 </p>
                 <a
-                  href="https://wa.me/573001234567?text=Hola%2C%20me%20interesa%20un%20proyecto%20como%20este"
+                  href="https://wa.me/573042573555?text=Hola%2C%20me%20interesa%20un%20proyecto%20como%20este"
                   target="_blank"
                   rel="noreferrer"
                   className="mt-5 md:mt-6 inline-flex items-center gap-2 font-body text-sm font-semibold text-primary hover:text-accent transition-colors w-fit group/link"

@@ -67,7 +67,7 @@ const Navbar = () => {
           })}
           <li className="ml-3">
             <a
-              href="https://wa.me/573001234567"
+              href="https://wa.me/573042573555"
               target="_blank"
               rel="noreferrer"
               className="bg-gradient-water text-primary-foreground px-5 py-2.5 rounded-lg font-body text-sm font-semibold hover:shadow-water transition-all duration-200 inline-flex items-center gap-2"
@@ -117,7 +117,7 @@ const Navbar = () => {
               ))}
               <li className="mt-2">
                 <a
-                  href="https://wa.me/573001234567"
+                  href="https://wa.me/573042573555"
                   target="_blank"
                   rel="noreferrer"
                   className="flex items-center justify-center gap-2 bg-gradient-water text-primary-foreground px-5 py-3 rounded-lg font-body text-sm font-semibold"
